@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "mkshortcut": {
+      "commandName": "Project",
+      "commandLineArgs": "\"c:\\delme\\delme.lnk\" \"C:\\xgit\\WANGF\\WANGF\\OnlyEmbeddedModules\\bin\\Debug\\net8.0\\Asaon.dll\""
+    }
+  }
+}
